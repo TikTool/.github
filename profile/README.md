@@ -7,6 +7,7 @@
     <div style="display: flex; justify-content: center; align-items: center;">
       <img height="25" src="https://img.shields.io/github/followers/AdamBankz?color=000000&style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
       <img height="25" src="https://img.shields.io/github/stars/AdamBankz?color=000000&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+      <a href="https://discord.gg/tiktool"><img src="https://dcbadge.limes.pink/api/server/https://discord.gg/tiktool?theme=grey"></a><br><br>
     </div>
   </p>
 </div>
